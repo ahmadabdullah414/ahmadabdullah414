@@ -225,8 +225,6 @@ Worked on multiple Android/mobile applications, including an English learning ap
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadabdullah414&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadabdullah414&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=ahmadabdullah414&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
