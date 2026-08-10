@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- ============ BANNER ============ -->
-<img src="YOUR_BANNER_IMAGE_URL" alt="Ahmad Abdullah Banner" width="100%" />
-
-<br/>
+<!-- ============ AVATAR ============ -->
+<img src="assets/ahmad-photo.png" alt="Ahmad Abdullah" width="170" />
 
 # Hi, I'm Ahmad Abdullah 👋
 
@@ -101,7 +99,7 @@ I like shipping practical, functional software over polishing things I'll never 
 
 ### 💪 Hybrid Fit — a full mobile + web fitness ecosystem
 
-My most complete project — a fitness app with a companion admin panel and an AI coaching assistant, all sharing one Firebase backend.
+My most complete project — a fitness app with a companion admin panel and an AI coaching assistant, all sharing one Firebase backend. The Flutter app itself covers step & calorie tracking, nutrition logging, water intake, BMI/BMR profile metrics, a muscle-group picker that surfaces targeted workout videos, and an in-app **Fit Bot** chat assistant — backed by the repos below.
 
 <table>
 <tr>
@@ -135,7 +133,9 @@ An AI fitness-coach chatbot for the app, built two ways:
 **[HybridFit — Food Recognition Model](https://github.com/ahmadabdullah414/HybridFit-Food-Recognition-Model)** — the planned computer-vision component for food/calorie recognition in the app; currently set up as the starting point for that work.
 
 <div align="center">
-<img src="HYBRIDFIT_SCREENSHOT_URL" width="700" alt="Hybrid Fit screenshots" />
+<img src="assets/hybridfit-app-showcase.png" width="700" alt="Hybrid Fit app screens — home dashboard, nutrition tracking, muscle-group workout picker, and the on-device Fit Bot assistant" />
+<br/>
+<sub>Home dashboard, nutrition tracking, muscle-group workout picker, and the on-device Fit Bot assistant</sub>
 </div>
 
 ---
@@ -225,6 +225,8 @@ Worked on multiple Android/mobile applications, including an English learning ap
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=ahmadabdullah414&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadabdullah414&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=ahmadabdullah414&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
